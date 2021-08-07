@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding:0;
+    
+}
+body{
+    font-family: 'poppins', sans-serif;
+}
+
+.flexible-container{
+    display: flex;  
+    margin-bottom: 80px;
+   
+  
+
+   
+}
+.half-width h1{
+    font-size: 58px;
+    color:rgb(104, 98, 98);
+}
+.half-width h2{
+    font-size: 40px;
+    color: dimgray;
+}
+ 
+#first-tag{
+    color: orange;
+}
+.half-width{
+   
+    width: 50%;
+    padding-left: 8%; 
+    padding-top: 100px;
+    
+}
+
+.half-width p{
+    padding:20px 0;
+    margin-bottom: 10%;
+    font-size: 18px;
+    line-height: 34px;
+    
+}
+.left-header p{
+    color:dimgray;
+}
+.half-width img{
+    width: 100%;
+}
+.left-header{
+    padding-top: 20%;
+    
+}
+.link-button{
+    text-decoration: none;
+    padding:20px 35px;
+    background-image:linear-gradient(45deg,rgba(255, 160, 122, 0.575),tomato);
+    font-weight:bold;
+    font-size: 20px;
+    color:white;
+    border-radius:30px;
+  
+  
+    
+}
+
+
+.biography{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+       
+}
+.left-bio img{
+    width: 60%;
+}
+.left-bio{
+    padding-left: 10%;
+}
+.right-bio{
+    padding-right: 10%;
+    padding-top: 10%;
+}
+.right-bio p{
+    margin-bottom: 15%;
+}
+
+.food-area{
+    text-align: center;
+    padding-left: 28%;
+    padding-right: 28%;
+    
+   
+}
+.food-area p{
+   line-height: 30px;
+   padding: 30px 0; 
+   font-size: 18px;
+}
+
+.food-area h2{
+    font-size: 40px;
+    color: dimgray
+}
+.my-recipies{
+   
+    padding-left: 8%;
+  
+    
+   
+   
+    
+}
+.my-recipies img{
+    width: 100%;
+  
+ 
+}
+.recipie-box{
+      box-shadow: 5px 5px 10px 10px #564e4e17;
+      padding: 18px 18px 18px 18px;
+      border-radius: 25px;
+      width: 25%;
+      margin: 23px;
+      
+}
+.my-recipies h2{
+    font-size: 30px;
+    margin-top: 50px;
+    font-weight: bold;    
+}
+.my-recipies p{
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;  
+}
+.followers-area{
+    padding-left: 9%;
+    padding-right: 7%;    
+    
+}
+.count-area{
+    box-shadow: 5px 5px 10px 10px #564e4e17;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.count{
+    width: 26%;
+    text-align: center;
+    margin-left: 5%;
+    line-height: 45px;
+   
+    
+
+}
+.count h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.count p{
+    font-size: 15px;
+}
+.food-network{
+    text-align: center;
+    padding:80px;
+    background-color: black;
+    
+}
+.food-network h2{
+    font-size: 30px;
+    color:dimgray;
+}
+.food-network p{
+    font-size: 16px;
+    color:rgba(255, 255, 255, 0.609);
+    margin-top: 40px;
+}  
+#food{
+    color:orange;
+}
